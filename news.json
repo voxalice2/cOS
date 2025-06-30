@@ -12,19 +12,10 @@
 	{"name": "",
 	 "content": "2"},
 
-	{"name": "(June 31, 2025) Construct OS v1.0 is out!",
+	{"name": "Article 1",
 	 "content": [
-		"Presenting... Construct OS v1.0!",
-		"",
-		"This is the initial release of Construct OS, sporting features like:",
-		"- OpenMX 8 compatibility",
-		"- Automatic update checking (with cOS Internet)",
-		"- Security and system protection",
-		"- Custom app support",
-		"- Easy note taking (plus drawings!)",
-		"- ...and more!",
-		"",
-		"Check it out: https://scratch.mit.edu/projects/964481548/"
+		"Article 1",
+		"Hello world!"
 	]}
 
 ]}
